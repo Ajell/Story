@@ -1,0 +1,4 @@
+Donc si on resume 
+git init
+git add
+git status
